@@ -56,6 +56,7 @@ Score: 95%
 
 **Task Management Web Application**  
 Developed a task management web application using **Python and Django** to help students track assignments and deadlines.
+
 **House Price Prediction (Machine Learning)
 Developed a **machine learning model to predict house prices** based on features such as **area, number of bedrooms, location, and age of the property**.  
 Performed **data preprocessing and model training using regression algorithms**.
